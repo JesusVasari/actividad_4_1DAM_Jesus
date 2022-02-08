@@ -12,6 +12,4 @@ fun main(){
         in 0..4 -> println("suspenso")
         else -> println("el valor introducido es incorrecto")
     }
-
-
 }
